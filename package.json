@@ -1,0 +1,25 @@
+{
+  "name": "electron-symfony-5.0",
+  "version": "0.1.0",
+  "description": "Symfony 5.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tlecomte13/electron-symfony-5.0"
+  },
+  "keywords": [
+    "Electron",
+    "Symfony",
+    "php"
+  ],
+  "author": "Tlecomte13",
+  "license": "MIT",
+  "homepage": "http://teddy-lecomte.fr/index.php",
+  "devDependencies": {
+    "electron": "^1.3",
+    "gulp-connect-php": "^0.0.8"
+  }
+}
