@@ -1,7 +1,7 @@
 Electron Symfony 5.0 (FR)
 ================
 
-Crée simplement un projet avec electron + symfony 5.0
+Créer simplement un projet avec electron + symfony 5.0
 
 Require
 ------------
