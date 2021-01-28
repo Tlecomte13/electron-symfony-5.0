@@ -19,7 +19,7 @@
   "license": "MIT",
   "homepage": "http://teddy-lecomte.fr/index.php",
   "devDependencies": {
-    "electron": "^7.2",
+    "electron": "^9.4",
     "gulp-connect-php": "^0.0.8"
   }
 }
